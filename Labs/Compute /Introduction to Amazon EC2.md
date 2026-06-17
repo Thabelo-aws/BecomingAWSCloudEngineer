@@ -18,4 +18,4 @@ Test termination protection
 
 Terminate your EC2 instance
 Step 1: Naming my EC2 instance
-<img width="560" height="291" alt="{535BEFF0-8957-4C0A-99C5-45B658A57B16}" src="https://github.com/user-attachments/assets/5a14e40c-beb8-4af5-b9b6-fa0626951b7f" />
+<img width="160" height="91" alt="{535BEFF0-8957-4C0A-99C5-45B658A57B16}" src="https://github.com/user-attachments/assets/5a14e40c-beb8-4af5-b9b6-fa0626951b7f" />
